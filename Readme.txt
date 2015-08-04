@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: rating, website rating, overall rating, website review, overall website rating
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 1.2
+Tested up to: 4.2.4
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,13 @@ Through this plugin user can,
 * Admin can customize the widget title name.
 * Authors will be sort based on the number of post they published.
 
-For More Information : http://buffercode.com/author-list-wordpress-plugin/
+For More Information : http://buffercode.com/project/author-list/
+
+v 2.0 (04082015)
+
+* Bug fixes
+* Added recent 5 post to author popup.
+* Support 4.2.4
 
 v 1.2 (30/3/2014)
 
@@ -46,9 +52,14 @@ v 1.0
 3. Go to Appearance --> Widget --> Author List Widget to appropriate location to display the Author List.
 4. Enter the customize title to display in the Author List
 
-For More Information : http://buffercode.com/author-list-wordpress-plugin/
+For More Information : http://buffercode.com/project/author-list/
 
 == Changelog ==
+= 2.0 =
+* Bug fixes
+* Added recent 5 post to author popup.
+* Support 4.2.4
+
 = 1.2 =
 * Bug fixes, now display all author list
 
