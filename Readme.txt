@@ -1,10 +1,10 @@
 === Author List ===
 Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
-Tags: rating, website rating, overall rating, website review, overall website rating
+Tags: Author list, display author, show author, only author, default author, author related, author post, authors, authors list
 Requires at least: 3.0.1
 Tested up to: 4.2.4
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,8 +21,13 @@ Through this plugin user can,
 * Admin can set the gravatar image size to be 24x24, 48x48 or 96x96 pixel.
 * Admin can customize the widget title name.
 * Authors will be sort based on the number of post they published.
+* Admin can able to select the role based filter.[New - 05082015]
 
 For More Information : http://buffercode.com/project/author-list/
+
+v 2.1 (05082015)
+
+* Admin can able to select the role based filter.
 
 v 2.0 (04082015)
 
@@ -55,6 +60,9 @@ v 1.0
 For More Information : http://buffercode.com/project/author-list/
 
 == Changelog ==
+= 2.1 = 
+* Admin can able to select the role based filter.
+
 = 2.0 =
 * Bug fixes
 * Added recent 5 post to author popup.
