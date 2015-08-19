@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Author list, display author, show author, only author, default author, author related, author post, authors, authors list
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,8 +22,13 @@ Through this plugin user can,
 * Admin can customize the widget title name.
 * Authors will be sort based on the number of post they published.
 * Admin can able to select the role based filter.[New - 05082015]
+* Support WordPress 4.3
 
 For More Information : http://buffercode.com/project/author-list/
+
+v 2.2
+
+* Support WordPress 4.3
 
 v 2.1 (05082015)
 
@@ -60,6 +65,9 @@ v 1.0
 For More Information : http://buffercode.com/project/author-list/
 
 == Changelog ==
+= 2.2 =
+* Support WordPress 4.3
+
 = 2.1 = 
 * Admin can able to select the role based filter.
 
