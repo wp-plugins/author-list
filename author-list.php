@@ -57,7 +57,7 @@ class buffercode_author_list_info extends WP_Widget {
 
 
         <p>Roles:
-            <select name="<?php echo $this->get_field_name('buffercode_author_list_role'); ?>" id="<?php echo $this->get_field_id('buffercode_author_list_role'); ?>"class="widefat">
+            <select name="<?php echo $this->get_field_name('buffercode_author_list_role'); ?>" class="widefat">
                 <?php
                 foreach ($buffercode_author_list_roles as $role_index => $role_value) {
                     echo '<option value="' . $role_value . '"', strtolower($buffercode_author_list_role) == strtolower($role_value) ? ' selected="selected"' : '', '>', $role_index, '</option>';
